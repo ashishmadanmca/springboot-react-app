@@ -12,7 +12,7 @@ Backend - Contains all the backend code and unit tests (Sprint boot api’s, Jun
 Run the code - 
 - Frontend folder >
     - npm install
-    - npm run
+    - npm start
     - Browse http://localhost:3000/
     - Done
 Run tests - 
