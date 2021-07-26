@@ -8,7 +8,7 @@ Frontend - Contains all the front end and unit tests (React JS, Jasmine)
 Backend - Contains all the backend code and unit tests (Sprint boot api’s, Junit)
 
 
-##Frontend - 
+## Frontend - 
 Run the code - 
 - Frontend folder >
     - npm install
@@ -20,9 +20,9 @@ Run tests -
     - npm test
     - Console should show the test results
 
-##Backend - 
+## Backend - 
 Run the code - 
-- Import the maven project and load dependendencies using the iml file
+- Import as existing maven project and load dependendencies using the iml file
 - Mark “SpringBootFullStackApplication” as the main class for the app
 - Run the code using IntelliJ using IntelliJ / Eclipse etc..
 - Browse http://localhost:8080/api/students (This should show the results)
