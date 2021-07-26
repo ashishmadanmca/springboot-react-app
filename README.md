@@ -22,10 +22,10 @@ Run tests -
 
 ## Backend - 
 Run the code - 
-- Import as existing maven project and load dependendencies using the iml file
-- Mark “SpringBootFullStackApplication” as the main class for the app
-- Run the code using IntelliJ using IntelliJ / Eclipse etc..
-- Browse http://localhost:8080/api/students (This should show the results)
-- Done 
+     - Import as existing maven project and load dependendencies using the iml file
+     - Mark “SpringBootFullStackApplication” as the main class for the app
+     - Run the code using IntelliJ using IntelliJ / Eclipse etc..
+     - Browse http://localhost:8080/api/students (This should show the results)
+     - Done 
 Run tests - 
-- Go to the “StudentControllerTests” file and run tests using IntelliJ / Eclipse etc..
+     - Go to the “StudentControllerTests” file and run tests using IntelliJ / Eclipse etc..
