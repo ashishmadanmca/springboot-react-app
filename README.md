@@ -20,7 +20,7 @@ Run tests -
     - npm test
     - Console should show the test results
 
-Backend - 
+## Backend - 
 Run the code -
 - Import the maven project and load dependendencies using the iml file
 - Mark “SpringBootFullStackApplication” as the main class for the app
