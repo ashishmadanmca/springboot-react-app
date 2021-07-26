@@ -1,5 +1,13 @@
 # springboot-react-app
 
+Fullstack app using Sprint Boot and React
+The application is divided in 2 main parts / folders
+
+Frontend - Contains all the front end and unit tests (React JS, Jasmine)
+
+Backend - Contains all the backend code and unit tests (Sprint boot api’s, Junit)
+
+
 ##Frontend - 
 Run the code - 
 - Frontend folder >
